@@ -1,4 +1,4 @@
-# Python Puzzle Party 🥳
+# Python Puzzle Party 🥳🐍
 
 **What?** Join other Northwestern Python coders in-person on the Evanston campus to solve fun puzzles. Bring a group of friends to compete as a team or come alone. All Python coders are welcome - beginner through advanced. We will provide snacks, coding puzzles for you to solve, and small prizes for the winners! This is a great way to challenge yourself and test out your Python skills.
 
