@@ -10,10 +10,11 @@
 
 **How to sign up?** [PlanIt Purple event](https://planitpurple.northwestern.edu/event/604357)
 
-**Colab links for puzzles:**
+**Colab links to work on puzzles in the cloud:**
 1. [HumbleSousChef](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/1_HumbleSousChef.ipynb?authuser=1)
 2. [CulinaryResearch](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearch.ipynb?authuser=1)
-4. [EscherCake](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCake.ipynb?authuser=1)
-4. [EscherCakeHard](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeHard.ipynb?authuser=1)
+4.EscherCake
+  a. [Easy version](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCake.ipynb?authuser=1)
+  b. [Hard version](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeHard.ipynb?authuser=1)
 5. [FinestWine](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/5_FinestWine.ipynb?authuser=1)
 6. [BattleRoyale](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/6_BattleRoyale.ipynb?authuser=1)
