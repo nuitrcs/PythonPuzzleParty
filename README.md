@@ -4,6 +4,8 @@
 
 **When?** Wednesday, November 29, 2023, 3 - 5pm CT
 
+**Where?** Cohen Commons (Room L482, Fourth Floor North, Technological Institute, 2145 Sheridan Rd, Evanston)
+
 **Who?** All Northwestern students, staff, and faculty are invited to participate. Attendance will be limited to room size, so you must register to attend. The exact location on the Evanston campus is still TBA - the location will be emailed to all registered participants before the workshop.
 
 **How to sign up?** [PlanIt Purple event](https://planitpurple.northwestern.edu/event/604357)
