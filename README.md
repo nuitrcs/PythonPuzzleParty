@@ -10,7 +10,7 @@
 
 **How to sign up?** [PlanIt Purple event](https://planitpurple.northwestern.edu/event/604357)
 
-**Colab links to work on puzzles in the cloud:*
+**Colab links to work on puzzles in the cloud:**
 - [HumbleSousChef](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/1_HumbleSousChef.ipynb?authuser=1)
 - [CulinaryResearch](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearch.ipynb?authuser=1)
 - [EscherCakeEasyVersion](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCake.ipynb?authuser=1)
