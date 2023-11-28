@@ -14,7 +14,7 @@
 - [HumbleSousChef](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/1_HumbleSousChef.ipynb?authuser=1)
 - [CulinaryResearchEasyVersion](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchEasy.ipynb?authuser=1)
 - [CulinaryResearchHardVersion](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchHard.ipynb?authuser=1)
-- [EscherCakeEasyVersion](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCake.ipynb?authuser=1)
+- [EscherCakeEasyVersion](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeEasy.ipynb?authuser=1)
 - [EscherCakeHardVersion](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeHard.ipynb?authuser=1)
 - [FinestWine](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/5_FinestWine.ipynb?authuser=1)
 - [BattleRoyale](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/6_BattleRoyale.ipynb?authuser=1)
