@@ -15,8 +15,8 @@ This is the order of the puzzles, as well as the links to the notebook to work o
 *A Humble Sous-Chef (10 minutes / 32 points):*<br>
 An exciting warm up! 😅
 
-[Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/1_HumbleSousChef.ipynb)<br>
-[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/1_HumbleSousChef.ipynb)
+[Jupyter Notebook](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/1_HumbleSousChef.ipynb)<br>
+[Google Colab](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/1_HumbleSousChef.ipynb)
 
 ---------------------------------------------------
 
@@ -32,8 +32,10 @@ Find your way through the world of meat 🐮
 </ul>
 <ul>
 <li>Hard version (40 points):</li>
-[Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchHard.ipynb)<br>
-[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchHard.ipynb)
+ <a href = "https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchHard.ipynb">Jupyter Notebook</a><br>
+ <a href = "https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchHard.ipynb">Google Colab</a><br>
+<!-- [Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchHard.ipynb)<br> -->
+<!-- [Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchHard.ipynb) -->
 </ul>
 
 ---------------------------------------------------
@@ -41,8 +43,8 @@ Find your way through the world of meat 🐮
 *A Secret Recipe (15 minutes / 50 points):*<br>
 Decode a mistery ❓
 
-[Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/3_SecretRecipe.ipynb)<br>
-[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/3_SecretRecipe.ipynb)
+[Jupyter Notebook](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/3_SecretRecipe.ipynb)<br>
+[Google Colab](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/3_SecretRecipe.ipynb)
 
 ---------------------------------------------------
 
@@ -50,25 +52,25 @@ Decode a mistery ❓
 A cake within a cake within a cake... cake-ception? 🤔
 
 Easy version (60 points):<br>
-[Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeEasy.ipynb)<br>
-[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeEasy.ipynb)
+[Jupyter Notebook](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeEasy.ipynb)<br>
+[Google Colab](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeEasy.ipynb)
 
 Hard version (90 points):<br>
-[Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeHard.ipynb)<br>
-[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeHard.ipynb)
+[Jupyter Notebook](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeHard.ipynb)<br>
+[Google Colab](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeHard.ipynb)
 
 ---------------------------------------------------
 
 *The Finest Wine (20 minutes / up to 100 points):*<br>
 Time for a wine break! 🍇
 
-[Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/5_FinestWine.ipynb)<br>
-[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/5_FinestWine.ipynb)
+[Jupyter Notebook](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/5_FinestWine.ipynb)<br>
+[Google Colab](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/5_FinestWine.ipynb)
 
 ---------------------------------------------------
 
 *Battle Royale (30 minutes / ??? points):*<br>
 The final countdown 🐅
 
-[Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/6_BattleRoyale.ipynb)<br>
-[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/6_BattleRoyale.ipynb)
+[Jupyter Notebook](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/6_BattleRoyale.ipynb)<br>
+[Google Colab](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/6_BattleRoyale.ipynb)
