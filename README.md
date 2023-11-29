@@ -29,8 +29,8 @@ Find your way through the world of meat 🐮
   <a href = "https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchEasy.ipynb">Google Colab</a>
 <!-- [Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchEasy.ipynb)<br> -->
 <!-- [Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchEasy.ipynb) -->
-<br>
-  
+</ul>
+<ul>
 <li>Hard version (40 points):</li>
  <a href = "https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchHard.ipynb">Jupyter Notebook</a><br>
  <a href = "https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchHard.ipynb">Google Colab</a><br>
@@ -51,14 +51,18 @@ Decode a mistery ❓
 *Escher's Cake (15 minutes):*<br>
 A cake within a cake within a cake... cake-ception? 🤔
 
-Easy version (60 points):<br>
+<ul>
+<li>Easy version (60 points):</li>
+  
 [Jupyter Notebook](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeEasy.ipynb)<br>
 [Google Colab](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeEasy.ipynb)
-
-Hard version (90 points):<br>
+</ul>
+<ul>
+<li>Hard version (90 points):</li>
+  
 [Jupyter Notebook](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeHard.ipynb)<br>
 [Google Colab](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeHard.ipynb)
-
+</ul>
 ---------------------------------------------------
 
 *The Finest Wine (20 minutes / up to 100 points):*<br>
