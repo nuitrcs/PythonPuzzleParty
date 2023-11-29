@@ -17,7 +17,7 @@ This is the order of the puzzles, as well as the links to the notebook to work o
 ---------------------------------------------------
 
 <h4>A Humble Sous-chef</h4>
-*A Humble Sous-Chef (10 minutes / 32 points):*<br>
+*(10 minutes / 32 points):*<br>
 An exciting warm up! 😅
 
 [Jupyter Notebook](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/1_HumbleSousChef.ipynb)<br>
@@ -25,7 +25,8 @@ An exciting warm up! 😅
 
 ---------------------------------------------------
 
-*Culinary Research (15 minutes):*<br>
+<h4>Culinary Research</h4>
+*(15 minutes):*<br>
 Find your way through the world of meat 🐮
 
 <ul>
@@ -45,7 +46,8 @@ Find your way through the world of meat 🐮
 
 ---------------------------------------------------
 
-*A Secret Recipe (15 minutes / 50 points):*<br>
+<h4>A Secret Recipe</h4>
+*(15 minutes / 50 points):*<br>
 Decode a mistery ❓
 
 [Jupyter Notebook](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/3_SecretRecipe.ipynb)<br>
@@ -53,7 +55,8 @@ Decode a mistery ❓
 
 ---------------------------------------------------
 
-*Escher's Cake (15 minutes):*<br>
+<h4>Escher's Cake</h4>
+*(15 minutes):*<br>
 A cake within a cake within a cake... cake-ception? 🤔
 
 <ul>
@@ -71,7 +74,8 @@ A cake within a cake within a cake... cake-ception? 🤔
 
 ---------------------------------------------------
 
-*The Finest Wine (20 minutes / up to 100 points):*<br>
+<h4>The Finest Wine</h4>
+*(20 minutes / up to 100 points):*<br>
 Time for a wine break! 🍇
 
 [Jupyter Notebook](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/5_FinestWine.ipynb)<br>
@@ -79,7 +83,8 @@ Time for a wine break! 🍇
 
 ---------------------------------------------------
 
-*Battle Royale (30 minutes / ??? points):*<br>
+<h4>Battle Royale</h4>
+*(30 minutes / ??? points):*<br>
 The final countdown 🐅
 
 [Jupyter Notebook](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/6_BattleRoyale.ipynb)<br>
