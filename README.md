@@ -24,11 +24,11 @@ An exciting warm up! 😅
 Find your way through the world of meat 🐮
 
 <ul>
-<li>Easy version (25 points):</li><br>
+<li>Easy version (25 points):</li>
 [Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchEasy.ipynb)<br>
 [Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchEasy.ipynb)
 
-<li>Hard version (40 points):</li><br>
+<li>Hard version (40 points):</li>
 [Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchHard.ipynb)<br>
 [Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchHard.ipynb)
 </ul>
