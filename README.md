@@ -16,6 +16,7 @@ This is the order of the puzzles, as well as the links to the notebook to work o
 
 ---------------------------------------------------
 
+<h3>A Humble Sous-chef</h3>
 *A Humble Sous-Chef (10 minutes / 32 points):*<br>
 An exciting warm up! 😅
 
