@@ -12,6 +12,8 @@ You can download the notebooks for the puzzles or work in the cloud with Google 
 <!-- **Puzzles:** -->
 <h2>Puzzles</h2>
 
+---------------------------------------------------
+
 This is the order of the puzzles, as well as the links to the notebook to work on your own computer or in the cloud:
 
 <h4>A Humble Sous-chef</h4>
