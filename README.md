@@ -25,10 +25,10 @@ Find your way through the world of meat 🐮
 
 <ul>
 <li>Easy version (25 points):</li>
-  <a href = "https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchEasy.ipynb">Jupyter Notebook</a>
+  <a href = "https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchEasy.ipynb">Jupyter Notebook</a><br>
   <a href = "https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchEasy.ipynb">Google Colab</a>
-%[Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchEasy.ipynb)<br>
-%[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchEasy.ipynb)
+<!-- [Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchEasy.ipynb)<br> -->
+<!-- [Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchEasy.ipynb) -->
 </ul>
 <ul>
 <li>Hard version (40 points):</li>
