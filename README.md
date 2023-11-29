@@ -23,13 +23,15 @@ An exciting warm up! 😅
 *Culinary Research (15 minutes):*<br>
 Find your way through the world of meat 🐮
 
-Easy version (25 points):<br>
+<ul>
+<li>Easy version (25 points):</li><br>
 [Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchEasy.ipynb)<br>
 [Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchEasy.ipynb)
 
-Hard version (40 points):<br>
+<li>Hard version (40 points):</li><br>
 [Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchHard.ipynb)<br>
 [Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchHard.ipynb)
+</ul>
 
 ---------------------------------------------------
 
