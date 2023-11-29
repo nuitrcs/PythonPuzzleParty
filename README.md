@@ -14,8 +14,6 @@ You can download the notebooks for the puzzles or work in the cloud with Google 
 
 This is the order of the puzzles, as well as the links to the notebook to work on your own computer or in the cloud:
 
----------------------------------------------------
-
 <h4>A Humble Sous-chef</h4>
 *(10 minutes / 32 points):*<br>
 An exciting warm up! 😅
