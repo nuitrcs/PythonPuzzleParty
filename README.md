@@ -12,48 +12,48 @@ You can download the notebooks for the puzzles or work in the cloud with Google 
 
 This is the order of the puzzles, as well as the links to the notebook to work on your own computer or in the cloud:
 
-*A Humble Sous-Chef:*
+*A Humble Sous-Chef:*<br>
 An exciting warm up! 😅
 
-[Notebook to work on your own computer](TBD)
+[Notebook to work on your own computer](TBD)<br>
 [Link to work on the cloud](TBD)
 
-*Culinary Research:*
+*Culinary Research:*<br>
 Find your way through the world of meat 🐮
 
-Easy version:
-[Notebook to work on your own computer](TBD)
+Easy version:<br>
+[Notebook to work on your own computer](TBD)<br>
 [Link to work on the cloud](TBD)
 
-Hard version:
-[Notebook to work on your own computer](TBD)
+Hard version:<br>
+[Notebook to work on your own computer](TBD)<br>
 [Link to work on the cloud](TBD)
 
-*A Secret Recipe:*
+*A Secret Recipe:*<br>
 Decode a mistery ❓
 
-[Notebook to work on your own computer](TBD)
+[Notebook to work on your own computer](TBD)<br>
 [Link to work on the cloud](TBD)
 
-*Escher's Cake:*
+*Escher's Cake:*<br>
 A cake within a cake within a cake... cake-ception? 🤔
 
-Easy version:
-[Notebook to work on your own computer](TBD)
+Easy version:<br>
+[Notebook to work on your own computer](TBD)<br>
 [Link to work on the cloud](TBD)
 
-Hard version:
-[Notebook to work on your own computer](TBD)
+Hard version:<br>
+[Notebook to work on your own computer](TBD)<br>
 [Link to work on the cloud](TBD)
 
-*The Finest Wine:*
+*The Finest Wine:*<br>
 Time for a wine break! 🍇
 
-[Notebook to work on your own computer](TBD)
+[Notebook to work on your own computer](TBD)<br>
 [Link to work on the cloud](TBD)
 
-*Battle Royale:*
+*Battle Royale:*<br>
 The final countdown 🐅
 
-[Notebook to work on your own computer](TBD)
+[Notebook to work on your own computer](TBD)<br>
 [Link to work on the cloud](TBD)
