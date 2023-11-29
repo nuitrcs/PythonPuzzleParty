@@ -1,6 +1,6 @@
 # Python Puzzle Party 🥳🐍🏆
 
-**Instructions:**
+<!-- **Instructions:** -->
 <h2>Instructions</h2>
 
 There are a total of 6 puzzles. 🧩 They start easier and get harder. So get ready! 💪🏼 Some of the puzzles have an easy and a hard version. Depending on your proficiency, you can pick the easy or the hard path (meaning that, if you select easy/hard for a question, you need to select easy/hard for all questions). Please note that the easier version is worth less points.
@@ -67,6 +67,7 @@ A cake within a cake within a cake... cake-ception? 🤔
 [Jupyter Notebook](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeHard.ipynb)<br>
 [Google Colab](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeHard.ipynb)
 </ul>
+
 ---------------------------------------------------
 
 *The Finest Wine (20 minutes / up to 100 points):*<br>
