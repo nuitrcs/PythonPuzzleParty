@@ -14,12 +14,16 @@ You can download the notebooks for the puzzles or work in the cloud with Google 
 
 This is the order of the puzzles, as well as the links to the notebook to work on your own computer or in the cloud:
 
+---------------------------------------------------
+
 <h4>A Humble Sous-chef</h4>
 *(10 minutes / 32 points):*<br>
 An exciting warm up! 😅
 
 [Jupyter Notebook](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/1_HumbleSousChef.ipynb)<br>
 [Google Colab](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/1_HumbleSousChef.ipynb)
+
+---------------------------------------------------
 
 <h4>Culinary Research</h4>
 *(15 minutes):*<br>
