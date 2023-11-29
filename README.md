@@ -88,7 +88,7 @@ Time for a wine break! 🍇
 ---------------------------------------------------
 
 <h4>Battle Royale</h4>
-*(30 minutes / ??? points):*<br>
+<em>(30 minutes / ??? points):</em><br>
 The final countdown 🐅
 
 [Jupyter Notebook](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/6_BattleRoyale.ipynb)<br>
