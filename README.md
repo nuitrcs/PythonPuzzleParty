@@ -15,45 +15,45 @@ This is the order of the puzzles, as well as the links to the notebook to work o
 *A Humble Sous-Chef:*<br>
 An exciting warm up! 😅
 
-[Notebook to work on your own computer](TBD)<br>
-[Link to work on the cloud](TBD)
+[Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/1_HumbleSousChef.ipynb)<br>
+[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/1_HumbleSousChef.ipynb)
 
 *Culinary Research:*<br>
 Find your way through the world of meat 🐮
 
 Easy version:<br>
-[Notebook to work on your own computer](TBD)<br>
-[Link to work on the cloud](TBD)
+[Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchEasy.ipynb)<br>
+[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchEasy.ipynb)
 
 Hard version:<br>
-[Notebook to work on your own computer](TBD)<br>
-[Link to work on the cloud](TBD)
+[Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchHard.ipynb)<br>
+[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchHard.ipynb)
 
 *A Secret Recipe:*<br>
 Decode a mistery ❓
 
-[Notebook to work on your own computer](TBD)<br>
-[Link to work on the cloud](TBD)
+[Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/3_SecretRecipe.ipynb)<br>
+[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/3_SecretRecipe.ipynb)
 
 *Escher's Cake:*<br>
 A cake within a cake within a cake... cake-ception? 🤔
 
 Easy version:<br>
-[Notebook to work on your own computer](TBD)<br>
-[Link to work on the cloud](TBD)
+[Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeEasy.ipynb)<br>
+[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeEasy.ipynb)
 
 Hard version:<br>
-[Notebook to work on your own computer](TBD)<br>
-[Link to work on the cloud](TBD)
+[Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeHard.ipynb)<br>
+[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeHard.ipynb)
 
 *The Finest Wine:*<br>
 Time for a wine break! 🍇
 
-[Notebook to work on your own computer](TBD)<br>
-[Link to work on the cloud](TBD)
+[Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/5_FinestWine.ipynb)<br>
+[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/5_FinestWine.ipynb)
 
 *Battle Royale:*<br>
 The final countdown 🐅
 
-[Notebook to work on your own computer](TBD)<br>
-[Link to work on the cloud](TBD)
+[Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/6_BattleRoyale.ipynb)<br>
+[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/6_BattleRoyale.ipynb)
