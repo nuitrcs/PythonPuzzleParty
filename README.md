@@ -18,6 +18,8 @@ An exciting warm up! 😅
 [Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/1_HumbleSousChef.ipynb)<br>
 [Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/1_HumbleSousChef.ipynb)
 
+---------------------------------------------------
+
 *Culinary Research (15 minutes):*<br>
 Find your way through the world of meat 🐮
 
@@ -29,11 +31,15 @@ Hard version (40 points):<br>
 [Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchHard.ipynb)<br>
 [Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/2_CulinaryResearchHard.ipynb)
 
+---------------------------------------------------
+
 *A Secret Recipe (15 minutes / 50 points):*<br>
 Decode a mistery ❓
 
 [Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/3_SecretRecipe.ipynb)<br>
 [Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/3_SecretRecipe.ipynb)
+
+---------------------------------------------------
 
 *Escher's Cake (15 minutes):*<br>
 A cake within a cake within a cake... cake-ception? 🤔
@@ -46,13 +52,17 @@ Hard version (90 points):<br>
 [Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeHard.ipynb)<br>
 [Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/4_EscherCakeHard.ipynb)
 
+---------------------------------------------------
+
 *The Finest Wine (20 minutes / up to 100 points):*<br>
 Time for a wine break! 🍇
 
 [Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/5_FinestWine.ipynb)<br>
 [Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/PythonPuzzleParty/blob/main/puzzles/5_FinestWine.ipynb)
 
-*Battle Royale (30 minutes / 150 points):*<br>
+---------------------------------------------------
+
+*Battle Royale (30 minutes / ??? points):*<br>
 The final countdown 🐅
 
 [Notebook to work on your own computer](https://github.com/nuitrcs/PythonPuzzleParty/blob/main/puzzles/6_BattleRoyale.ipynb)<br>
