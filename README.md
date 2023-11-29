@@ -7,11 +7,11 @@ There are a total of 6 puzzles 🧩
 
 They start easier and get harder. So get ready! 💪🏼
 
-After the warm-up round, you must choose as a team whether to follow the "easy" path or the "hard" path. Please note that the easier version is worth less points.
+After the warm-up round, you must choose as a team whether to follow the "easy" path or the "hard" path. Questions in the easier path are worth fewer points.
 
-The notebook for each puzzle has instructions and points for that puzzle.
+The notebook for each puzzle has instructions and points information.
 
-You can download the notebooks for the puzzles or work in the cloud with Google Colab. Either way works. Please do note that if you work on your computer, you'll need to install the libraries involved in the puzzles. Google Colab already has them installed. In this sense, working on Google Colab might be a bit easier. Your choice though! 😵‍💫
+You can download the notebooks for the puzzles or work in the cloud with Google Colab. If you work on your computer, you'll need to install the libraries involved in the puzzles, while Google Colab already has them installed.Hence, working on Google Colab might be a bit easier. Your choice! 😵‍💫
 
 <!-- **Puzzles:** -->
 <h2>Puzzles</h2>
